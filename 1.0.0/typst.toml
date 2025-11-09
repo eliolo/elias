@@ -1,0 +1,8 @@
+[package]
+name = "elias"
+version = "1.0.0"
+entrypoint = "src/lib.typ"
+authors = [
+  "Elias Olofsson <https://github.com/eliolo>"
+]
+description = "Collection of personal packages."

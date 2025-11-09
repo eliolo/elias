@@ -1,0 +1,25 @@
+fysika:
+  type: Book
+  title: "Fysika: Nya Fysikalia: Tabell- och formelsamling i fysik"
+  author: Erik Elfgren
+  volume: 6
+  page-total: 23
+  date: 2020-09-09
+
+heureka:
+  type: Book
+  title: Heureka Fysik 2
+  author:
+    - Rune Alphonce
+    - Lars Bergström
+    - Per Gunnvald
+    - Erik Johansson
+    - Roy Nilsson
+  volume: 1
+  page-total: 336
+  date: null
+
+diskret-matematik:
+  type: Book
+  title: "Föreläsningsanteckningar I Diskret Matematik"
+  page-total: 402
