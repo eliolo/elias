@@ -1,7 +1,8 @@
 # Collection of personal Typst packages
 
 This is a collection of personal [Typst](https://github.com/typst/typst) packages
-that can be installed as a local package according to the method described in
+not intended to be published as an official package.
+It can be installed as a local package according to the method described in
 [Typst packages](https://github.com/typst/packages).
 
 To install, first install Typst following the instructions in the
